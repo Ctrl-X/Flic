@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineCodeCounter", "LineCodeCounter.csproj", "{E897F576-51D2-4264-8497-AD8EA7111C1A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E897F576-51D2-4264-8497-AD8EA7111C1A}.Debug.ActiveCfg = Debug|.NET
+		{E897F576-51D2-4264-8497-AD8EA7111C1A}.Debug.Build.0 = Debug|.NET
+		{E897F576-51D2-4264-8497-AD8EA7111C1A}.Release.ActiveCfg = Release|.NET
+		{E897F576-51D2-4264-8497-AD8EA7111C1A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
